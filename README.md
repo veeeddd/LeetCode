@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/veeeddd/LeetCode/tree/master/0007-reverse-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/veeeddd/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
