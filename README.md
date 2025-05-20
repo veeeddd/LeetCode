@@ -20,8 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/veeeddd/LeetCode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/veeeddd/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/veeeddd/LeetCode/tree/master/3321-type-of-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/veeeddd/LeetCode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
