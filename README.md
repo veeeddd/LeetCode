@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/veeeddd/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/veeeddd/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Array
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/veeeddd/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/veeeddd/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
