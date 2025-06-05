@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/veeeddd/LeetCode/tree/master/0006-zigzag-conversion) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/veeeddd/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3194-find-words-containing-character](https://github.com/veeeddd/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/veeeddd/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Math
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/veeeddd/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/veeeddd/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
