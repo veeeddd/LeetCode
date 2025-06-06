@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veeeddd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/veeeddd/LeetCode/tree/master/0006-zigzag-conversion) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/veeeddd/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/veeeddd/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veeeddd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/veeeddd/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/veeeddd/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/veeeddd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/veeeddd/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Union Find
 |  |
