@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/veeeddd/LeetCode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/veeeddd/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/veeeddd/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/veeeddd/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/veeeddd/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/veeeddd/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/veeeddd/LeetCode/tree/master/3321-type-of-triangle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/veeeddd/LeetCode/tree/master/0135-candy) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/veeeddd/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/veeeddd/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/veeeddd/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/veeeddd/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/veeeddd/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/veeeddd/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/veeeddd/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
