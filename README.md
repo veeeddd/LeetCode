@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/veeeddd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/veeeddd/LeetCode/tree/master/0006-zigzag-conversion) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/veeeddd/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/veeeddd/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/veeeddd/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/veeeddd/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/veeeddd/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/veeeddd/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/veeeddd/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
