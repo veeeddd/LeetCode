@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/veeeddd/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/veeeddd/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/veeeddd/LeetCode/tree/master/0012-integer-to-roman) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/veeeddd/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/veeeddd/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/veeeddd/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/veeeddd/LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/veeeddd/LeetCode/tree/master/0012-integer-to-roman) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/veeeddd/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/veeeddd/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/veeeddd/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/veeeddd/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/veeeddd/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/veeeddd/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/veeeddd/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
